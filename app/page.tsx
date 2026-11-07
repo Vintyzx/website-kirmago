@@ -437,9 +437,9 @@ export default function Home() {
             </p>
           </div>
           <p className="text-xs text-white/40">
-            © {new Date().getFullYear()} KIRMAGO. All rights reserved.
+            © 2026 KIRMAGO. All rights reserved.
           </p>
-        </div>
+        </div>  
       </footer>
     </main>
   );
